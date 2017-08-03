@@ -3,3 +3,11 @@ acme-styles:
   css:
     base:
       css/acme.css: {}
+    component:
+      css/acme.css: {}
+    layout:
+      css/acme.css: {}
+    js:
+      js/acme.js: {}
+    dependencies:
+        - core/jquery
